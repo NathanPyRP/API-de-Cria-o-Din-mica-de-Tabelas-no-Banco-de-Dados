@@ -7,7 +7,7 @@ Uma API que cria e gerencia tabelas no banco de dados a partir de requisições 
 - Node.js
 - TypeScript
 - TypeORM
-- 
+
 ## Como Funciona
 
 1. Faça uma requisição POST para a rota especificada, incluindo no corpo da requisição a estrutura da tabela que você deseja criar.
